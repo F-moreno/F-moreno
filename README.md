@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Fernando 🙋‍♂️
 
+Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e desafios de lógica.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreno-fernando)
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark)
@@ -13,4 +15,4 @@
 	<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e desafios de lógica.
+
