@@ -6,6 +6,8 @@ Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-moreno&layout=compact)](https://github.com/F-moreno/github-readme-stats)
+
 ## Technologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
