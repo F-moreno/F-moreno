@@ -16,9 +16,11 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento para a web ut
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark)
 
-<uim-rocket class="text-3xl text-orange-400 animate-ping" />
 
 </div><br/>
+
+<uim-rocket class="text-3xl text-orange-400 animate-ping" />
+
 
 ##
 
