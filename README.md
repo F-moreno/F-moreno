@@ -14,7 +14,7 @@ Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e
 	<img align="center" alt="HTML5" src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 	<img align="center" alt="CSS3" src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img align="center" alt="PHP" src="	https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white/>
+	<img align="center" alt="PHP" src="	https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 	<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	
 </div><br/>
