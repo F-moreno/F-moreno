@@ -8,7 +8,7 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento para a web ut
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreno-fernando)
 
 ##
-<div style="display: inline">
+<div align="center">
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark)
 
