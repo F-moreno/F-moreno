@@ -19,7 +19,6 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento para a web ut
 
 </div><br/>
 
-<sup>sobrescrito</sup>
 
 
 ##
