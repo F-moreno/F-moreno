@@ -11,11 +11,11 @@ Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e
 ## Technologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
-	<img align="center" alt="HTML5" src="https://img.shields.io/badge/-E34F26?&logo=html5&logoColor=white"/>
-	<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black"/>
-	<img align="center" alt="CSS3" src="https://img.shields.io/badge/-1572B6?&logo=css3&logoColor=white"/>
-	<img align="center" alt="PHP" src="https://img.shields.io/badge/-777BB4?&logo=php&logoColor=white"/>
-	<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+	# <img align="center" alt="HTML5" src="https://img.shields.io/badge/-E34F26?&logo=html5&logoColor=white"/>
+	# <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black"/>
+	# <img align="center" alt="CSS3" src="https://img.shields.io/badge/-1572B6?&logo=css3&logoColor=white"/>
+	#<img align="center" alt="PHP" src="https://img.shields.io/badge/-777BB4?&logo=php&logoColor=white"/>
+	#<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	
 </div><br/>
 
