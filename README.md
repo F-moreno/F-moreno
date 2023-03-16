@@ -9,7 +9,9 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento para a web ut
 
 ##
 <div style="display: inline">
+
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark)
+
 </div>
 ##
 
