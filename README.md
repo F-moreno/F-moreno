@@ -19,7 +19,7 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento para a web ut
 
 </div><br/>
 
-<uim-rocket class="text-3xl text-orange-400 animate-ping" />
+<sup>sobrescrito</sup>
 
 
 ##
