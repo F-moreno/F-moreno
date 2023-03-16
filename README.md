@@ -1,3 +1,8 @@
+<style>
+	div{
+		display: inline_block;
+	}
+</style>
 ### Olá! Eu sou o Fernando 🙋‍♂️
 
 Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e desafios de lógica.
@@ -18,6 +23,3 @@ Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e
 	<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-<style>
-
-</style>
