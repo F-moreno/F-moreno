@@ -1,10 +1,17 @@
-### Olá! Eu sou o Fernando 🙋‍♂️
+### Olá! Eu sou o Fernando 🙋‍♂️ 
 
-Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e desafios de lógica.
+Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e desafios, principalmente os que envolvem lógica.
+
+Atualmente estou aprimorando minhas habilidades em desenvolvimento para a web utilizando as frameworks VueJS e Laravel.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreno-fernando)
 
+##
+
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark)
+
+##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-moreno&layout=compact)](https://github.com/F-moreno/github-readme-stats)
 
