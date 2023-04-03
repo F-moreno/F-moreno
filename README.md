@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Fernando 🙋‍♂️ 
 
 Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e desafios, principalmente os que envolvem lógica.
+Atualmente estou aprimorando minhas habilidades em desenvolvimento web fullstack.
 
-Atualmente estou aprimorando minhas habilidades em desenvolvimento para a web utilizando as frameworks VueJS e Laravel.
-
+✌️
 <div align="center"><br/>
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreno-fernando)
