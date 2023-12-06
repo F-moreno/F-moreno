@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Fernando 🙋‍♂️ 
 
-Sou doente por tecnologia e amo desenvolver soluções, sempre gostei de jogos e desafios, principalmente os que envolvem lógica.
-Atualmente estou aprimorando minhas habilidades em desenvolvimento web fullstack.
+Minha paixão pela tecnologia sempre me impulsionou a resolver desafios. Trabalhar com lógica me instiga cada dia a explorar campos repletos de conhecimento. Atualmente, foco em aprimorar minhas habilidades em desenvolvimento de sistemas e análise de dados, iniciando uma jornada pelo universo fascinante da engenharia de dados e inteligência artificial. Nesse percurso, mergulho em projetos desafiadores, buscando compreender as nuances desse ecossistema em constante evolução.
 
 ✌️
 <div align="center"><br/>
