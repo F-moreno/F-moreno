@@ -47,4 +47,3 @@ Minha paixão pela tecnologia sempre me impulsionou a resolver desafios. Trabalh
 	<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
-![Snake animation](https://github.com/F-moreno/F-moreno/blob/output/github-contribution-grid-snake.svg)
