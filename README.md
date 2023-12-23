@@ -1,49 +1,46 @@
-### Olá! Eu sou o Fernando 🙋‍♂️ 
+# Olá, eu sou Fernando Moreno 👋
 
-Minha paixão pela tecnologia sempre me impulsionou a resolver desafios. Trabalhar com lógica me instiga cada dia a explorar campos repletos de conhecimento. Atualmente, foco em aprimorar minhas habilidades em desenvolvimento de sistemas e análise de dados, iniciando uma jornada pelo universo fascinante da engenharia de dados e inteligência artificial. Nesse percurso, mergulho em projetos desafiadores, buscando compreender as nuances desse ecossistema em constante evolução.
+## Sobre Mim
 
-✌️
-<div align="center"><br/>
-	
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreno-fernando)
+Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvolvimento de sistemas, análise de dados, engenharia de dados e inteligência artificial. Estou constantemente em busca de aprendizado e sempre pronto para enfrentar desafios.
 
-</div>
+- 👨‍💻 Atualmente, estou aprimorando minhas habilidades em Python, SQL, e ferramentas como VSCode.
+- 📚 Estou explorando o vasto campo da inteligência artificial e suas aplicações práticas.
+- 🚀 Busco contribuir para projetos de código aberto e construir soluções inovadoras.
 
-##
-
-<div align="center"><br/>
-
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark)
-
-
-</div><br/>
-
-
-
-##
+## Estatísticas do GitHub 📊
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-moreno&layout=compact)](https://github.com/F-moreno/github-readme-stats)
-
+  <a href="https://github.com/F-moreno/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Fernando" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-moreno&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="200">
+  </a>
 </div>
 
-## Technologias que uso no meu dia
-<!---->
-<div align="center" style="display: inline_block"><br/>
-	<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-	<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-	<img align="center" alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-	<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
+## Tecnologias e Ferramentas 🛠️
 
-## Outras technologias conhecidas
+- Python
+- SQL (MySQL, PostgreSQL)
+- Visual Studio Code
 
-<div align="center" style="display: inline_block"><br/>
-	<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-	<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-	<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-	<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div><br/>
+## Projetos Destacados 🌟
+
+- [ToDoList](https://github.com/F-moreno/ToDoList): Descrição do projeto e contribuições.
+- [Projeto 2](link_projeto_2): Descrição do projeto e contribuições.
+
+## Certificações e Conquistas 🏆
+
+- Certificação em [Nome da Certificação](link_certificacao)
+
+## Conecte-se Comigo 🌐
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moreno-fernando">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
+  </a>
+  <a href="https://github.com/F-moreno">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+  </a>
+</p>
+
+Se você está buscando colaboradores ou tem algum projeto interessante, ficarei feliz em contribuir! Vamos criar algo incrível juntos.
