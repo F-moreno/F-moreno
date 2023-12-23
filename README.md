@@ -12,8 +12,8 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
 
 <div align="center">
   <a href="https://github.com/F-moreno/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Fernando" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-moreno&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=F-moreno&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Fernando" height="160">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-moreno&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="160">
   </a>
 </div>
 
