@@ -23,7 +23,7 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
 
 ## Projetos Destacados 🌟
 
-- [ToDoList](https://github.com/F-moreno/ToDoList): ToDoList em Python utilizando conceitos de classe e OO
+- [ToDoList](ToDoList): ToDoList em Python utilizando conceitos de classe e OO
 
 <!-- - [Projeto 2](link_projeto_2): Descrição do projeto e contribuições.-->
 
