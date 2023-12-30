@@ -26,11 +26,11 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
 - [ToDoList](https://github.com/F-moreno/ToDoList): ToDoList em Python utilizando conceitos de classe e OO
 
 <!-- - [Projeto 2](link_projeto_2): Descrição do projeto e contribuições.-->
-
+<!-->
 ## Certificações e Conquistas 🏆
 
 - Certificação em [Nome da Certificação](link_certificacao)
-
+-->
 ## Conecte-se Comigo 🌐
 
 <p align="center">
@@ -39,6 +39,9 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
   </a>
   <a href="https://github.com/F-moreno">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/dev_fermoreno/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
 </p>
 
