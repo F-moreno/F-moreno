@@ -23,10 +23,10 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
 
 ## Projetos Destacados 🌟
 
-- [ToDoList](https://github.com/F-moreno/ToDoList): ToDoList em Python utilizando conceitos de classe e OO
+- [ToDoList](https://github.com/F-moreno/ToDoList): ToDoList em Python utilizando conceitos de classe e OO.
+- [Locadora_Veiculos](https://github.com/F-moreno/Locadora_Veiculos): Locadora de Veiculos em Python utilizando conceitos de classe e OO.
 
-<!-- - [Projeto 2](link_projeto_2): Descrição do projeto e contribuições.-->
-<!-->
+<!--
 ## Certificações e Conquistas 🏆
 
 - Certificação em [Nome da Certificação](link_certificacao)
