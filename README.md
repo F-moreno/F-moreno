@@ -38,10 +38,10 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
     <img src="/assets/icons/linkein.png" alt="Linkedin">
   </a>
   <a href="https://github.com/F-moreno">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+    <img src="/assets/icons/github.png" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/dev_fermoreno/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+    <img src="/assets/icons/instagram.png" alt="Instagram">
   </a>
 </p>
 
