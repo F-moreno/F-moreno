@@ -35,7 +35,7 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moreno-fernando">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
+    <img src="/assets/icons/linkein.png" alt="Linkedin">
   </a>
   <a href="https://github.com/F-moreno">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
@@ -46,3 +46,23 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
 </p>
 
 Se você está buscando colaboradores ou tem algum projeto interessante, ficarei feliz em contribuir! Vamos criar algo incrível juntos.
+
+
+
+
+ <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=
+  'Olá meu nome e Fernando!';
+  'Seja Bem vindo ao Meu GIT.';
+  'Hello, This is Fernando!';
+  'Wellcome to my GIT.">
+</a>
+<div>
+<details>
+<summary>primeiro</summary>
+</details>
+
+<details>
+<summary>Segundo</summary>
+</details>
+</div> -->
