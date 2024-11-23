@@ -4,7 +4,7 @@
 
 Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvolvimento de sistemas, análise de dados, engenharia de dados e inteligência artificial. Estou constantemente em busca de aprendizado e sempre pronto para enfrentar desafios.
 
-- 👨‍💻 Atualmente, estou aprimorando minhas habilidades em Python, SQL, e ferramentas como VSCode.
+- 👨‍💻 Atualmente, estou aprimorando minhas habilidades em Python, SQL, e ferramentas como VSCode e Cursor.
 - 📚 Estou explorando o vasto campo da engenharia de dados e suas aplicações práticas.
 - 🚀 Busco contribuir para projetos de código aberto e construir soluções inovadoras.
 
@@ -20,6 +20,7 @@ Sou um apaixonado desenvolvedor e entusiasta de tecnologia, com foco em desenvol
 - Python
 - SQL (MySQL, PostgreSQL)
 - Visual Studio Code
+- Cursor
 
 ## Projetos Destacados 🌟
 
